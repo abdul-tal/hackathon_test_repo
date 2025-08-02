@@ -1,5 +1,5 @@
 # Example Dockerfile for testing CVE fix tool
-FROM ubuntu:19.10
+FROM ubuntu:18.04
 
 LABEL maintainer="hackathon-team"
 LABEL description="Example vulnerable Dockerfile for CVE fix demo"
